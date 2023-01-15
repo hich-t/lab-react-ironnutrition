@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+ 
+}
+
+
+.food{
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
